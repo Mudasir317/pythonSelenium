@@ -1,0 +1,22 @@
+2024-08-01 12:46:49,947 :INFO : pytestDemo.test_logging : Information statement
+2024-08-01 12:46:49,947 :WARNING : pytestDemo.test_logging : Something is in warning mode
+2024-08-01 12:46:49,947 :ERROR : pytestDemo.test_logging : A Major error has happened
+2024-08-01 12:46:49,947 :CRITICAL : pytestDemo.test_logging : Critical issue
+2024-08-01 12:49:36,369 :DEBUG : pytestDemo.test_logging : A debug statement is executed
+2024-08-01 12:49:36,369 :INFO : pytestDemo.test_logging : Information statement
+2024-08-01 12:49:36,370 :DEBUG : pytestDemo.test_logging : A debug statement is executed
+2024-08-01 12:49:36,370 :WARNING : pytestDemo.test_logging : Something is in warning mode
+2024-08-01 12:49:36,370 :ERROR : pytestDemo.test_logging : A Major error has happened
+2024-08-01 12:49:36,370 :CRITICAL : pytestDemo.test_logging : Critical issue
+2024-08-07 16:21:18,314 :INFO : pytestDemo.BaseClass : Rahul
+2024-08-07 16:21:18,314 :INFO : pytestDemo.BaseClass : rahulshettyacademy.com
+2024-08-07 16:26:55,797 :INFO : test_editProfile : Rahul
+2024-08-07 16:26:55,797 :INFO : test_editProfile : rahulshettyacademy.com
+2024-08-07 16:29:25,526 :INFO : test_editProfile : Rahul
+2024-08-07 16:29:25,526 :INFO : test_editProfile : rahulshettyacademy.com
+2024-08-07 16:29:25,528 :DEBUG : pytestDemo.test_logging : A debug statement is executed
+2024-08-07 16:29:25,528 :INFO : pytestDemo.test_logging : Information statement
+2024-08-07 16:29:25,528 :DEBUG : pytestDemo.test_logging : A debug statement is executed
+2024-08-07 16:29:25,528 :WARNING : pytestDemo.test_logging : Something is in warning mode
+2024-08-07 16:29:25,528 :ERROR : pytestDemo.test_logging : A Major error has happened
+2024-08-07 16:29:25,528 :CRITICAL : pytestDemo.test_logging : Critical issue
